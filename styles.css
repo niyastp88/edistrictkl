@@ -1,0 +1,378 @@
+.header-top {
+    border-top: 5px solid #F1c222 ;
+    border-color: #F1c222;
+    
+}
+body{
+    margin: 0;
+}
+.imgdiv{
+    width: 100%;
+    height: 90px;
+}
+.img{
+    margin-left: 85px;
+}
+.img2{
+    padding-left: 15px;
+    
+}
+.header-left{
+    width: 60%;
+    height: 66px;
+    background-color: #29398d;
+
+}
+.header-right{
+    width: 40%;
+    height: 66px;
+    background-color: #29398d;
+    display: flex;
+    
+
+}
+.header{
+    display: flex;
+    
+}
+.list{
+    display: inline;
+    margin-left: 25px;
+    
+
+    
+}
+.list2{
+    display: inline;
+    margin-left: 20px;
+}
+.list3{
+    color: white;
+    margin-top: 25px;
+   font-family: 'Baloo Chettan 2';
+
+
+}
+.head-mid{
+    width: 1350px;
+    height: 267px;
+    display: flex;
+}
+.img3{
+    width: 426px;
+    height: 267px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #2f40b5;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    display: block;
+
+}
+
+.hp{
+    text-align: justify;
+    font-family: 'Baloo Chettan 2';
+    margin-left: 20px;
+    
+}
+.create{
+    
+    color: white;
+    display: inline;
+    font-size: 1rem;
+
+
+}
+.now{
+    width: 230px;
+    height: 30px;
+    background-color:#0a58ca;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 2px;
+}
+.four{
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-evenly;
+}
+.service{
+    width: 336px;
+    height: 68px;
+    border: 2px solid #f0f2f0;
+    padding-top: 10px;
+    display: flex;
+    border-radius: 5px;
+    
+}
+.facility{
+    width: 336px;
+    height: 68px;
+    border: 2px solid #f0f2f0;
+    display: flex;
+    padding-top: 10px;
+    border-radius: 5px;
+
+}
+.freq{
+    width: 336px;
+    height: 68px;
+    border: 2px solid #f0f2f0;
+    border-radius: 5px;
+    display: flex;
+    padding-top: 10px;
+}
+.dash{
+    width: 336px;
+    height: 68px;
+    border: 2px solid #f0f2f0;
+    border-radius: 5px;
+    display: flex;
+    padding-top: 10px;
+}
+
+.serimg{
+    width: 50px;
+    height: 50px;
+    padding-left: 80px;
+    border-radius: 5px;
+}
+.t{
+    display: inline;
+    padding-bottom: 20px;
+}
+.service h4{
+    margin-left: 10px;
+    color: black;  
+}
+.service p{
+    display: inline;
+    line-height: 10px;
+    color: #666565;
+    
+}
+.service a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+.facility h4{
+    margin-left: 10px;
+    color: black;  
+}
+.facility p{
+    display: inline;
+    line-height: 10px;
+    color: #666565;
+    
+}
+.facility a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+.freq h4{
+    margin-left: 10px;
+    color: black; 
+    font-size: 12px;
+}
+.freq p{
+    display: inline;
+    line-height: 10px;
+    color: #666565;
+    
+}
+.freq a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+.dash h4{
+    margin-left: 10px;
+    color: black;  
+    
+}
+.dash p{
+    display: inline;
+    line-height: 10px;
+    color: #666565;
+    
+}
+.dash a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+.sd{
+    width: 185px;
+}
+.sdi{
+    width: 151px;
+}
+.web{
+    width: 100%;
+    height: 202px;
+    background-color: #f8f9fa;
+    margin-top: 50px;
+}
+.webhead{
+    width: 100%;
+    height: 36;
+    padding-top: 20px;
+    
+}
+.webhead h3{
+    font-family: 'Baloo Chettan 2';
+    color: #2f40b5;
+    text-align: center;
+
+}
+.websites{
+    display: flex;
+    justify-content: center;
+    
+}
+.sites img{
+    width: 200px;
+    height: 65px;
+}
+.footer{
+    width: 100%;
+    height: 387px;
+    background-color: #323632;
+}
+.pq{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    
+    
+}
+.wp{
+    width: 50%;
+    height: 124px;
+    margin-left: 60px;
+    
+}
+.ql{
+    width: 50%;
+    height: 124px;
+    margin-right: 60px;
+}
+.wp h5,.ql h5{
+    color: white;
+    font-family: 'Baloo Chettan 2';
+    margin-left: 35px;
+}
+.wp li,.ql li{
+    color: white;
+    font-family: 'Baloo Chettan 2';
+}
+.ql a{
+    text-decoration: none;
+    color: white;
+}
+.fl{
+    width: 85%;
+    height: 1px;
+    background-color: white;
+    margin: 0px 100px;
+}
+.footer ul{
+    list-style-type: none;
+}
+.f1{
+    width: 35%;
+    height: 200px;
+    margin-left: 90px;
+}
+.f2{
+    width: 1px;
+    background-color: white;
+    height: 200px;
+    margin-left: 115px;
+}
+.f3{
+    width: 35%;
+    height: 200px;
+}
+.footerb{
+    display: flex;
+}
+#itimg{
+    width: 70px;
+    height: 70px;
+    margin-top: 40px;
+}
+#imgnic{
+    width: 142px;
+    height: 40px;
+    margin-top: 55px;
+}
+.imgsec{
+    display: flex;
+}
+.f1 p{
+    color: white;
+}
+.f3 p{
+    color: white;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.list4{
+    display: flex;
+    
+}
+.list4 a{
+   color: white;
+   font-family: 'Baloo Chettan 2';
+   text-decoration: none;
+   margin-top: 25px;
+   margin-left: 300px;
+}
+.list4 i{
+    color: white;
+    margin-top: 27px;
+    margin-left: 15px;
+}
+.list4 p{
+    color: white;
+    font-family: 'Baloo Chettan 2';
+    margin-top: 25px;
+}
+.footerc{
+    width: 100%;
+    height: 40px;
+    display: flex;
+}
+.notice{
+    width: 66px;
+    height: 40px;
+    background-color: #dc3545;
+
+}
+.ins{
+    background-color: #6e6c74;
+    width: 1500px;
+    height: 40px;
+    display: flex;
+
+}
+.nn{
+    color: gold;
+    font-weight: bold;
+    font-family: 'Baloo Chettan 2';
+}
+.nnn{
+    color:white;
+    font-family: 'Baloo Chettan 2';
+
+}
+.notice p{
+    margin-top: 15px;
+    margin-left: 15px;
+}
